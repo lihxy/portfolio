@@ -36,6 +36,7 @@ a:hover {
 .image {
   border: thin solid black;
   margin-top: 200px;
+  margin-bottom: 200px;
 }
 
 img {
@@ -44,6 +45,6 @@ img {
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: thin solid black;
     font-size: .8em;
 }
