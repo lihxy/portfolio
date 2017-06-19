@@ -36,3 +36,7 @@ a:hover {
   border: thin solid black;
   margin-top: 200px;
 }
+
+img {
+  border: thin solid black;
+}
