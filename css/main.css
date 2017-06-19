@@ -2,6 +2,11 @@
   font-family: 'Cutive Mono', monospace;
 }
 
+body {
+  margin: 60px auto;
+  width: 70%;
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
