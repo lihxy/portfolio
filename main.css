@@ -34,6 +34,6 @@ a:hover {
 
 .image {
   border: thin solid black;
-  margin: auto;
+  margin: auto 0;
   margin-top: 100px;
 }
