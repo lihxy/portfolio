@@ -33,7 +33,7 @@ a:hover {
     text-decoration: underline;
 }
 
-.image {
+.container {
   margin-top: 100px;
   margin-bottom: 100px;
 }
@@ -42,6 +42,30 @@ img {
   width: 30%;
   height: 30%;
 }
+
+.lineBreak {
+  height: 3px;
+  background: radial-gradient(circle 500px, black, transparent);
+}
+
+.project {
+  width: 50%;
+  border-radius: 15px;
+  margin: 0 auto;
+  height: 300px;
+}
+
+.img {
+  float: left;
+  margin-right: 20px;
+  border: thin solid black;
+  padding: 20px;
+}
+
+.text {
+  margin: 50px 10px;
+}
+
 
 footer {
     border-top: thin solid black;
