@@ -43,6 +43,10 @@ img {
   height: 30%;
 }
 
+.img:hover {
+  box-shadow: 5px 5px 5px black;
+}
+
 .lineBreak {
   height: 3px;
   background: radial-gradient(circle 500px, black, transparent);
