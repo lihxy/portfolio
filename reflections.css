@@ -5,6 +5,7 @@
 body {
   margin: 60px auto;
   width: 70%;
+  background: url("http://68.media.tumblr.com/249a4bdc01b8d9f8ba8096f6b76dfe4e/tumblr_inline_mt4ng7J4wZ1rydp4g.png");
 }
 
 nav ul li, footer ul li {
@@ -22,6 +23,7 @@ nav ul, footer ul {
 nav {
   font-size: 20px;
   border-bottom: thin solid black;
+  color: white;
 }
 
 a {
@@ -30,5 +32,10 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    color: black;
+}
+
+.content {
+  text-shadow: 5px 5px 5px white;
+  box-shadow: 0px 0px 50px white;
 }
