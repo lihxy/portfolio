@@ -30,5 +30,11 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+  color: black
+}
+
+#container {
+  background: url("https://assets2.ello.co/uploads/user/cover_image/350710/ello-optimized-3cb17496.jpg") no-repeat;
+  background-size: cover;
 }
