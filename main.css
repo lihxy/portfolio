@@ -145,7 +145,7 @@ img {
 .overlay {
   position: absolute;
   transition: .5s ease;
-  background-color: #dddddd;
+  background-color: black;
   position: absolute;
   top: 0;
   bottom: 0;
