@@ -5,6 +5,7 @@
 body {
   margin: 60px auto;
   width: 70%;
+  background: url("http://68.media.tumblr.com/249a4bdc01b8d9f8ba8096f6b76dfe4e/tumblr_inline_mt4ng7J4wZ1rydp4g.png");
 }
 
 nav ul li, footer ul li {
@@ -22,6 +23,7 @@ nav ul, footer ul {
 nav {
   font-size: 20px;
   border-bottom: thin solid black;
+  background: white;
 }
 
 a {
@@ -34,7 +36,3 @@ a:hover {
   color: black
 }
 
-#container {
-  background: url("https://assets2.ello.co/uploads/user/cover_image/350710/ello-optimized-3cb17496.jpg") no-repeat;
-  background-size: cover;
-}
