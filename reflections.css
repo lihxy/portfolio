@@ -5,7 +5,6 @@
 body {
   margin: 60px auto;
   width: 70%;
-  background: url("https://static.tumblr.com/396f61d1a751ec9aac719d9b46af4aff/jptwsxw/tuFo0r5d8/tumblr_static_tumblr_static_90oo215nak8w0048scg80ogos_640.png");
 }
 
 nav ul li, footer ul li {
@@ -23,7 +22,7 @@ nav ul, footer ul {
 nav {
   font-size: 20px;
   border-bottom: thin solid black;
-  color: white;
+  background: url("https://static.tumblr.com/396f61d1a751ec9aac719d9b46af4aff/jptwsxw/tuFo0r5d8/tumblr_static_tumblr_static_90oo215nak8w0048scg80ogos_640.png");
 }
 
 a {
@@ -34,8 +33,3 @@ a {
 a:hover {
     color: black;
 }
-
-#container3 {
-  background: white;
-}
-
