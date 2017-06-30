@@ -1,3 +1,5 @@
+alert("Welcome to Helen Li's Portfolio! Click a grey circle to see projects!");
+
 var slideIndex = 1;
 showSlides(slideIndex);
 
