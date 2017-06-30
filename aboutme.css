@@ -5,7 +5,7 @@
 body {
   margin: 60px auto;
   width: 70%;
-  background: linear-gradient(white, white, #eeeeee);
+  background: linear-gradient(transparent, white, #eeeeee);
 }
 
 nav ul li, footer ul li {
